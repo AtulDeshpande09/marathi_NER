@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+torch
+transformers
+beautifulsoup4
+wikipedia-api
+nltk
+label-studio
+
+
