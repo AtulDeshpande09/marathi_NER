@@ -36,7 +36,9 @@ git merge work
 (Remember we have yet to make any progress this is just flashforward of project workflow )
 ----#---#----
 
-Status : 
+Status : Created scrape_main.py
+instructions -> create data folder - store all the other folders there and then rename each txt file containing links as links.txt .
+Run scrape_main.py 
 
 
 
